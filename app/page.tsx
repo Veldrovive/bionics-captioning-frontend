@@ -46,7 +46,7 @@ export default function Home() {
                 </div>
                 <div>
                     <iframe
-                        src="https://ronniet-imagecaptioning.hf.space"
+                        src="https://ronniet-imagecaptioning.hf.space?__theme=dark"
                         frameBorder="0"
                         width={gradioWidth}
                         height="450"
