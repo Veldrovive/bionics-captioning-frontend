@@ -17,6 +17,7 @@ const useScreenSize = () => {
     };
 
     window.addEventListener('resize', handleResize);
+    handleResize();
 
     // Clean up the event listener when the component unmounts
     return () => {
