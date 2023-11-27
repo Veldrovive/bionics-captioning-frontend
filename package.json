@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@types/node": "20.8.4",
-    "@types/react": "18.2.28",
+    "@types/react": "18.2.38",
     "sass": "^1.69.3",
     "typescript": "5.2.2"
   }
